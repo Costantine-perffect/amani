@@ -1,0 +1,20 @@
+.content {
+    background: rgb(62, 110, 126);
+    height: 100%;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-family: arial;
+    color: white;
+
+}
+
+body {
+    background: rgb(156, 154, 154);
+}
+
+p img {
+    width: 50%;
+    display: flex;
+}
